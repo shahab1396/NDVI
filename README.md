@@ -66,3 +66,4 @@ Customization
 Modify the region coordinates, date ranges, and other parameters in ndvi.py as needed for your specific use case. The Flask app can also be extended with additional routes or functionality as required.
 
 
+# NDVI
