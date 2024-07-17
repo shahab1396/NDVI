@@ -3,7 +3,7 @@ Overview
 This repository contains two Python scripts and a Flask web application that together enable downloading of NDVI (Normalized Difference Vegetation Index) images from Google Earth Engine for specified regions and dates.
 Files in the Repository
 
-1.	ndvi.py - This script performs the following:
+1.	fetch-ndvi.py - This script performs the following:
 •	Authenticates with Google Earth Engine.
 •	Defines regions of interest.
 •	Fetches MODIS satellite data, processes it to calculate NDVI, and masks clouds.
